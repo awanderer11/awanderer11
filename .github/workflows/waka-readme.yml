@@ -1,31 +1,26 @@
 name: README STATS UPDATE
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
-  push:
-    branches: [ main ]
+    - cron: "0 0 * * *"
 
 jobs:
-   update-readme:
-    name: Update Readme with Metrics
+  update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: WakaTime Readme Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master 
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_SHORT_INFO: "true"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_EDITORS: "true"
-          SHOW_DAYS_OF_WEEK: "true"
-          SHOW_COMMIT: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_LANGUAGE_PER_REPO: "true"
-          SHOW_LOC_CHART: "true"
-          SHOW_PROJECTS: "false"
-          SHOW_PROFILE_VIEWS: "true"
-          DEBUG_LOGGING: "true"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+          ### content
+          SHOW_TITLE: true 
+          SECTION_NAME: waka 
+          BLOCKS: ░▒▓█
+          CODE_LANG: rust 
+          TIME_RANGE: all_time 
+          LANG_COUNT: 10 
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          SHOW_MASKED_TIME: false 
+          STOP_AT_OTHER: true 
