@@ -4,4 +4,7 @@
 - 🌱 I’m currently learning Kotlin, Swift, Python, Golang
 - 📫 How to reach me: Email - alfkrnwn@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Batman!
+- ⚡ Fun fact: North London Forever
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
