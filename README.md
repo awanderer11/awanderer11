@@ -7,9 +7,9 @@
 - ⚡ Fun fact: North London Forever
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683.1%20thousand%20lines%20of%20code-blue)
 
@@ -52,17 +52,17 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     5 hrs 6 mins        ███████████████████████░░   90.65 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Dart                     7 hrs 56 mins       ███████████████████████░░   93.08 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -82,5 +82,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/awanderer11/awanderer11/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 02:43:03 UTC
+ Last Updated on 09/05/2025 01:57:50 UTC
 <!--END_SECTION:waka-->
