@@ -17,8 +17,6 @@
 
 > 📦 61.3 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -78,5 +76,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 02:29:02 UTC
+ Last Updated on 18/05/2025 02:30:19 UTC
 <!--END_SECTION:waka-->
