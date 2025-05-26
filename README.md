@@ -7,7 +7,7 @@
 - ⚡ Fun fact: North London Forever
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
@@ -16,8 +16,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 61.5 kB Used in GitHub's Storage 
- > 
-> 🏆 24 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,5 +76,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 03:03:30 UTC
+ Last Updated on 26/05/2025 03:04:51 UTC
 <!--END_SECTION:waka-->
