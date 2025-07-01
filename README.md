@@ -7,6 +7,8 @@
 - ⚡ Fun fact: North London Forever
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683.2%20thousand%20lines%20of%20code-blue)
@@ -76,5 +78,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 02:20:57 UTC
+ Last Updated on 01/07/2025 02:22:22 UTC
 <!--END_SECTION:waka-->
