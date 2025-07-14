@@ -7,7 +7,7 @@
 - ⚡ Fun fact: North London Forever
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -78,5 +78,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/awanderer11/awanderer11/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 03:15:05 UTC
+ Last Updated on 14/07/2025 03:16:36 UTC
 <!--END_SECTION:waka-->
